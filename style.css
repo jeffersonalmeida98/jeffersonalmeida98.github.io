@@ -1,0 +1,58 @@
+<style>
+       h2{color:springgreen
+
+       }
+       body{
+       background-color:deepskyblue
+     
+       } 
+       h2{
+        font-family: 'Sedgwick Ave', cursive;
+       }
+       #pi{
+        font-family: 'Shadows Into Light Two', cursive;
+       }
+       .inicio{
+           background-color: springgreen;
+       }
+       #pi{
+           font-size:x-large
+       }
+       .meunome{
+         font-family: 'Shadows Into Light Two', cursive;
+         font-size: x-large;
+         text-align: center;
+
+         }
+ 
+         .foto{
+             float: left;
+             padding: 10px;
+             height: 280px;
+             background-color: black;
+         }
+        .habilidades{
+          
+        }
+        div{
+            
+        }
+         .foto-container{
+             height: 300px;
+             position: relative
+            
+
+         }
+         .descricao{
+             position: absolute;
+            top: 20%;
+            left: 21%;
+
+         }
+         .habilidades{
+             
+         nth-child(odd)
+             background-color: black;
+         }
+
+         </style>
